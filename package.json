@@ -13,7 +13,7 @@
   "dependencies": {
     "@grpc/proto-loader": "^0.5.3",
     "@now/node": "^1.4.1",
-    "grpc": "^1.24.2",
+    "grpc": "^1.24.9",
     "highland": "^2.13.5",
     "mali": "^0.20.0"
   }
